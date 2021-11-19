@@ -1,0 +1,19 @@
+{
+    "name": "readersatcks/drive",
+    "description": "You can upload share files and folder ",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aman",
+            "email": "ajain@abnosoftwares.co.ke"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Readerstacks\\Drive\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
